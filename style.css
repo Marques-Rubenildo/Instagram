@@ -11,7 +11,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(48, 48, 48);
+    background-color: rgb(97, 97, 97);
     margin: 0;
     padding: 0;
     display: flex;
@@ -51,7 +51,7 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #707070;
+    background-color: rgb(97, 97, 97);
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid rgb(0, 0, 0);
