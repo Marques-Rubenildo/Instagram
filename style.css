@@ -11,7 +11,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(48, 48, 48);
     margin: 0;
     padding: 0;
     display: flex;
@@ -51,10 +51,10 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff;
+    background-color: #707070;
     width: 100%;
     padding: 1.3rem 0;
-    border: 1px solid lightgray;
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .group:nth-child(1) {
@@ -90,7 +90,7 @@ body {
 }
 
 .not-account {
-    color: rgb(160, 160, 160);
+    color: rgb(0, 0, 0);
 }
 
 .link-blue {
